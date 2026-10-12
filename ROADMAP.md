@@ -1,10 +1,14 @@
-# Public roadmap candidate
+# Public roadmap
 
-1. Release a reproducible offline architecture/demo snapshot after scope/rights review.
-2. Publish reviewed examples of evidence, unknowns and owner gates.
-3. Measure actual content outcomes before claiming audience/learning performance.
-4. Assess bounded implementation/content pilots with real customer inputs.
+The curated public architecture/demo preview is released. Next direction:
 
-No dates, guaranteed revenue, autonomous publication or full production readiness
-promised. Contributions initially documentation/synthetic examples only; no private
-owner data, credentials or gate-bypassing automation.
+1. Governed intelligence: clearer evidence-bound priorities and decision support.
+2. Business automation: validate bounded internal capabilities in local pilots.
+3. MEDIA operations: measure content results and test one-variable experiments.
+4. Opportunity-to-income: assess real inputs and economics before execution.
+5. Learning and integrations: reviewed examples and evidence-based next actions.
+
+These are directions, not scheduled deliverables or promised revenue. No autonomous
+sales, payments/publication or full production readiness is claimed.
+External contributions require prior agreement; no private configuration, customer
+identity, credentials or security implementation details belong in public examples.

@@ -149,3 +149,15 @@ Third-party components remain under their own terms. This is not open source.
 
 The exact curated file/hash inventory is `RELEASE_MANIFEST.json`; build boundaries
 are recorded in `PUBLIC_SNAPSHOT_PROVENANCE.md`.
+
+## Contact and security
+
+For pilots, partnerships, or implementation discussions, contact the repository
+owner through GitHub. No delivery, pricing or customer outcome is promised by this
+preview. External contributions require prior agreement; source visibility is not
+permission to modify or redistribute the package.
+
+Do not post vulnerabilities, credentials or private data in public issues.
+For sensitive security concerns, use this repository's **Security → Report a
+vulnerability** private reporting path. The public snapshot excludes production
+credentials/runtime; do not include private runtime exports in a report.

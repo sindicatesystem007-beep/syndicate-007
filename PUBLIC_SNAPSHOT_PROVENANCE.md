@@ -38,12 +38,14 @@ to avoid embedding a commit hash inside the contents of that same commit.
 - LICENSE_SCOPE.md: 475b6826eee3461e62f5d40dce250b47ed58ac9a58e7f800f3ba8d93aca3ab30
 - NOTICE: 2ff717cfb6c6c98aad903f76faf3dbbff106429aaf488bae833ee7cfcce395fc
 - OPEN_CORE.md: 488c9c199f54b1c4921acac0dcace4a6a1bb663e8fa7a0fac0bb7c22aa8346a6
-- README.md: a8e8c6ac42a59d2b6d1fdf2e076a7cf8d68290cc504d3d12fd91f4f9a209194c
-- RELEASE_MANIFEST.json: 33c9e33816633c61e3cbb126cec585168e0d724ab54fc2cbcf3cbc2550ca604c
-- ROADMAP.md: cb3a0dda321b308a6f8f0aa1f135844866e3b3ec51e4b8d97cd4c7192cd98deb
+- README.md: 0b71442ec93906eee7d37d3b9b471490ce511efc6fe588cdc30a634f476f1f53
+- RELEASE_MANIFEST.json: 908792f8764afb99faefe3fbddcc13aea5f6f9612f0613c872d218ddec7cab32
+- ROADMAP.md: c721092957df8ad34f72196d76495f15e92fc260a6cff4f800e70ae6975af4b0
 - SCREENSHOT_KIT.md: df8223a56c80d14153853adfa338a68c49c0fb757aafc88e98adbe825743a8ca
 - demo.html: 281f0b08c071838fa3936de0d5534602689d8655b73995dce8d194b00f04e168
 - demo_fixture.json: 9c9cdf599ad7c8ad83254330ff4473bfd776a85fe2cc5dd793aa596608559c20
 - demo_runner.py: ae237e2b5a9a7f6141ae44f04167207fed96dc198764aace29d8f337af1dac96
 
 Payload bytes: 31555
+
+Public finish update: contact/security guidance and roadmap only; ordinary descendant commit, no private history. Release tag preserved. Social Preview image missing locally; not uploaded.
