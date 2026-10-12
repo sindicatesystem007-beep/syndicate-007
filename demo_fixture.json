@@ -1,0 +1,213 @@
+{
+  "classification": "SYNTHETIC_DEMO_ONLY",
+  "schema_version": 1,
+  "external_actions": false,
+  "goal": "Prepare a bounded content pilot while keeping owner control",
+  "candidate": {
+    "title": "DEMO video content request",
+    "direction": "remote_work",
+    "source": "manual_import",
+    "summary": "SYNTHETIC: one content brief, not a client",
+    "evidence": [
+      "SYNTHETIC brief, no observed demand"
+    ],
+    "observed_at": null,
+    "geography": null,
+    "market": null,
+    "potential_signal": null,
+    "estimated_entry_cost": null,
+    "currency": null,
+    "income_upside": "unknown",
+    "scalability": "unknown",
+    "defensibility": "unknown",
+    "automation_potential": "unknown",
+    "strategic_fit": "unknown",
+    "speed_to_first_money": "unknown",
+    "risk_signal": "unknown",
+    "source_url": null,
+    "source_published_at": null,
+    "fetched_at": null,
+    "public_source_id": null,
+    "raw_title": null,
+    "raw_summary": null,
+    "demand_signal": null
+  },
+  "analysis": {
+    "capability_match": {
+      "value": {
+        "overall": "partial"
+      },
+      "status": "inferred_rule_based",
+      "reason": "Drafts require human verification"
+    },
+    "eligibility_requirements": {
+      "value": null,
+      "status": "unknown",
+      "reason": "Not verified"
+    },
+    "recommendation": {
+      "value": "needs_data",
+      "status": "inferred_rule_based",
+      "reason": "Missing inputs"
+    }
+  },
+  "execution_steps": [
+    {
+      "id": "demo-draft",
+      "title": "Draft structure",
+      "description": "Internal preparation only",
+      "owner": "S7",
+      "prerequisites": [
+        "Verified brief"
+      ],
+      "expected_output": "Draft for review",
+      "estimated_effort": {
+        "value": null,
+        "status": "unknown",
+        "explanation": null
+      },
+      "cost_status": "unknown",
+      "execution_status": "blocked"
+    },
+    {
+      "id": "demo-review",
+      "title": "Verify facts and economics",
+      "description": "Human review before delivery",
+      "owner": "human",
+      "prerequisites": [
+        "Scope and eligibility"
+      ],
+      "expected_output": "Reviewed assumptions",
+      "estimated_effort": {
+        "value": null,
+        "status": "unknown",
+        "explanation": null
+      },
+      "cost_status": "unknown",
+      "execution_status": "blocked"
+    }
+  ],
+  "commercial": {
+    "status": "needs_data",
+    "pricing_status": "unknown",
+    "owner_gate": null,
+    "assumptions": {
+      "value": [
+        "Verified input required"
+      ],
+      "status": "inferred_rule_based",
+      "explanation": null
+    },
+    "exclusions": {
+      "value": [
+        "No sending or application"
+      ],
+      "status": "inferred_rule_based",
+      "explanation": null
+    },
+    "missing_data": {
+      "value": [
+        "eligibility",
+        "price",
+        "delivery_cost"
+      ],
+      "status": "inferred_rule_based",
+      "explanation": null
+    }
+  },
+  "idea": {
+    "platform": "instagram",
+    "format": "reels",
+    "topic": "DEMO controlled automation",
+    "audience": "Demo viewers",
+    "objective": "Compare one hypothesis",
+    "hook": "An answer is not a result",
+    "cta": "Inspect the evidence",
+    "source_evidence": null,
+    "hypothesis": null,
+    "status": "idea"
+  },
+  "content": {
+    "platform": "instagram",
+    "content_id": "demo-material",
+    "url": null,
+    "format": null,
+    "topic": "DEMO controlled automation",
+    "hook": null,
+    "script": null,
+    "structure": [],
+    "duration_seconds": null,
+    "cta": null,
+    "visual_style": null,
+    "voice": null,
+    "published_at": null,
+    "scheduled_at": null,
+    "production_cost_usd": null,
+    "estimated_cost_usd": null,
+    "model_tool_usage": [],
+    "owner_agent": null,
+    "qa_result": null,
+    "preview_url": null,
+    "status": "scripts"
+  },
+  "media_lifecycle": [
+    "idea",
+    "brief",
+    "production_package",
+    "review",
+    "publication_package",
+    "result",
+    "learning"
+  ],
+  "manual_result": {
+    "publication_id": "demo-publication-not-real",
+    "views": 23,
+    "likes": null,
+    "comments": null,
+    "saves": null,
+    "shares": null,
+    "followers_delta": null,
+    "leads": null,
+    "revenue": null,
+    "revenue_evidence": null,
+    "observed_at": "2026-01-01T00:00:00Z",
+    "source": "SYNTHETIC FIXTURE ONLY"
+  },
+  "performance": {
+    "platform": "instagram",
+    "content_id": "demo-material",
+    "snapshot_at": "2026-01-01T00:00:00Z",
+    "source": "SYNTHETIC FIXTURE ONLY",
+    "metrics": {
+      "views": 23,
+      "saves": null
+    },
+    "window_start": null,
+    "window_end": null,
+    "scope": "content_lifetime"
+  },
+  "experiment": {
+    "experiment_id": "demo-experiment",
+    "hypothesis": "One hook variation may change attention; unconfirmed",
+    "platform": "instagram",
+    "changed_variable": null,
+    "control_baseline": {
+      "content_id": "demo-material",
+      "publication_id": "demo-publication-not-real",
+      "source": "SYNTHETIC FIXTURE ONLY"
+    },
+    "predicted_outcome": null,
+    "actual_outcome": {},
+    "confidence": "unknown",
+    "conclusion": null,
+    "next_action": null,
+    "status": "planned"
+  },
+  "money": {
+    "recorded_cost": null,
+    "estimated_cost": null,
+    "confirmed_revenue": null,
+    "profit": null,
+    "ROI": null
+  }
+}
